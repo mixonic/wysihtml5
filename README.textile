@@ -1,4 +1,4 @@
-h1. wysihtml5 0.3.0 RC 2
+h1. wysihtml5 0.3.0
 
 wysihtml5 is an open source rich text editor based on HTML5 technology and the progressive-enhancement approach.
 It uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
@@ -26,8 +26,8 @@ The rich text editing interface is supported in IE8+, FF 3.5+, Safari 4+, Safari
 
 h2. Demos
 
-* "Simple Editor with italic and bold buttons":http://tifftiff.de/wysihtml5/examples/simple.html
-* "Editor with advanced functionality":http://tifftiff.de/wysihtml5/examples/advanced.html
+* "Simple Editor with italic and bold buttons:"http://xing.github.com/wysihtml5/examples/simple.html
+* "Editor with advanced functionality":http://xing.github.com/wysihtml5/examples/advanced.html
 
 h2. Companies using wysihtml5
 
